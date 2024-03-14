@@ -3,7 +3,8 @@
 ## Overview of the Analysis
 
 
-Purpose: The purpose of this analysis is to determine weather an individual would be a credit risk or not in terms of approval for a loan. 
+## Purpose: 
+    The purpose of this analysis is to determine weather an individual would be a credit risk or not in terms of approval for a loan. 
 
 ## Features (Data to train model): 
 
